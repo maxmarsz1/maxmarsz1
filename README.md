@@ -10,6 +10,7 @@ Python - since 2015, my first programming language, longest experience, few larg
   - Youtube Downloader (Tkinter, pytube, Pillow) <a href="https://github.com/PIayer69/Youtube-Downloader" target="_blank">repo</a>
   - Backend for NoteTakingApp, my first app using Rest Framework (Django, simplejwt, RF)<a href="https://github.com/PIayer69/notes-django" target="_blank">repo</a>
   - Backend for PV Tracker, my most complex app so far (Django, simplejwt, RF). <a href="https://github.com/PIayer69/PV-Tracker-Backend" targer="_blank">repo</a>  
+
 HTML, CSS, JS - learning since 2017, one paid project:
   - Ramiga <a href="http://ramigainwestycje.pl" target="_blank">link</a> <a href="https://github.com/PIayer69/ramiga-inwestycje" target="_blank">repo</a>
 
