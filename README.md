@@ -17,6 +17,6 @@ ReactJS - learning since 2022, used in 2 projects:
   - NoteTakingApp which was my first project with it to learn the basics <a href="https://github.com/PIayer69/notes-react" target="_blank">repo</a>
   - PV Tracker (styled-components) <a href="https://github.com/PIayer69/FVTracker-Frontend" target="_blank">repo</a>
 
-Rust - learning  
+Rust - basics    
 C/C++ - basics  
 PHP, MySQL - used in one school project to pass
